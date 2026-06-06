@@ -24,5 +24,11 @@ This project analyzes Netflix content using Tableau to explore trends in movies,
 - USA contributes the largest share of content.
 - TV-MA is the most common rating.
 
-## Dashboard Link
+## Key Metrics
+- Total Titles: ~8,800
+- Movies: ~6,131
+- TV Shows: ~2,676
+- Countries: 100+
+
+## Live Dashboard
 https://public.tableau.com/app/profile/danish.akram/viz/NetflixContentAnalysisDashboard_17806803417430/NetflixContentAnalysisDashboard
