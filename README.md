@@ -1,4 +1,4 @@
-# Netflix-Content-Analysis-Dashboard
+## Netflix Analytics Dashboard | Tableau Project
 Interactive Tableau dashboard analyzing Netflix content trends, genres, ratings, and geographic distribution.
 
 ## Project Overview
